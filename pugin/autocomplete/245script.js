@@ -2,7 +2,7 @@ $(document).ready(function(){
 $( '[id^="tag_245_subfield_a"]' ).autocomplete({
 source: function(request, response) {
 $.ajax({
-url: "/cgi-bin/koha/cataloguing/260search.pl",
+url: "/cgi-bin/koha/cataloguing/245search.pl",
 dataType: "json",
 data: {
 term: request.term,

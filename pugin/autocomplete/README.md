@@ -82,5 +82,6 @@ Assim como deve ser mudado a tabela no ficheiro *search.pl para o campo desejado
 
 ## Referencias
 ![Adding autocomplete support to MARC21 260 / 264 (imprint) fields in Koha](http://blog.l2c2.co.in/index.php/2017/01/15/adding-autocomplete-support-to-marc21-260-264-imprint-fields-in-koha/?subscribe=success#blog_subscription-2)
+
 ![gitHub do  260search.pl](https://gist.github.com/l2c2technologies/7d0449dcb80c90880381ef4571003d1d)
 
